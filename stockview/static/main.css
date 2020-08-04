@@ -1,0 +1,41 @@
+body {
+    background: #333333;
+    color: #333333;
+}
+
+.time {
+    color: #FFFFFF;
+}
+
+.card {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.navbar-custom {
+    background-color: #333333;
+    border-color: #333333;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+
+.row {
+    padding-bottom: 25px;
+}
+
+.container {
+    justify-content: center;
+    padding-top: 10px;
+  }
